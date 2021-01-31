@@ -770,7 +770,7 @@ margin-bottom: 40px;
     }
 }
 /**********end of trend************/
-@media (min-width:500px) and (max-width:1080px){
+@media (max-width:1080px){
     header h1{
         width: 100%;
         font-size: 33px;
@@ -782,7 +782,7 @@ margin-bottom: 40px;
         padding-left: 0px;
     }
 }
-@media (min-width:500px) and (max-width:1236px){
+@media (max-width:1236px){
     header .choose{
         width: 100%;
     }
